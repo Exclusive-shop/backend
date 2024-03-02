@@ -1,0 +1,23 @@
+{
+  "name": "exclusive-be",
+  "version": "1.0.0",
+  "description": "Backend part of Exclusive shop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Exclusive-shop/backend.git"
+  },
+  "author": "Vadim Parpolita",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Exclusive-shop/backend/issues"
+  },
+  "homepage": "https://github.com/Exclusive-shop/backend#readme",
+  "dependencies": {
+    "express": "^4.18.3",
+    "mongoose": "^8.2.0"
+  }
+}
